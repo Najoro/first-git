@@ -1,0 +1,8 @@
+pwd :  chemin du git
+ls : liste tous les fichier du dossier
+git config --global --list : liste les information sur l'utulusateur du git
+cod . : ouvrire votre editeur de text
+git init : initialiser le git
+git add . : ajouter tous les fichier localement sans comit
+git status : afficher tous les fichier ajouter
+git comit -m : ajouter comite  (-m : message)
